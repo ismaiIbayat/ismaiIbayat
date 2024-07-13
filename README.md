@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismaiIbayat
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Unit Test
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me www.linkedin.com/in/ismail-b-5687b31b4
 
 <!---
